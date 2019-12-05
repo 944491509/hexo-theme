@@ -3,13 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+
+title: 刘洋
+subtitle: 个人博客
+author: 刘洋
 keywords:
-author: John Doe
+description: ''
 language: en
 timezone: ''
+
+
+
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -90,7 +95,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: A-Boy
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
