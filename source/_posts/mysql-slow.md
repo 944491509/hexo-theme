@@ -2,6 +2,7 @@
 title: 开启mysql慢查询
 date: 2020-08-28 10:36:35
 tags: [mysql] 
+categories: mysql  #分类
 ---
 ## 简介
 MySQL的慢查询，全名是慢查询日志，是MySQL提供的一种日志记录，用来记录在MySQL中响应时间超过阀值的语句.
