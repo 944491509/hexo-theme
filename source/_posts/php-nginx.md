@@ -2,8 +2,8 @@
 layout: 修改php-fpm和nginx运行用户
 title: 修改php-fpm和nginx运行用户
 date: 2020-04-09 11:57:20
-tags:
-description: nginx和php-fpm是www-data用户运行,想要修改为 www 用户运行
+categories: linux #分类
+tags: [php, nginx, linux]
 ---
 
 `nginx`和`php-fpm`是`www-data`用户运行,想要修改为 `www` 用户运行
